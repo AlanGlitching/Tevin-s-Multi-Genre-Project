@@ -130,7 +130,7 @@ function App() {
       <section className="section section-alt repetend-section">
         <div className="container">
           <div className="repetend-image-container">
-            <img src="/repetends/advertisement.png" alt="Advertisement: Protecting personal medical records" className="repetend-image" />
+            <img src="/repetends/advertisement.png" alt="Advertisement: CSA Singapore recruitment" className="repetend-image" />
           </div>
         </div>
       </section>
@@ -139,7 +139,7 @@ function App() {
       <section className="section repetend-section">
         <div className="container">
           <div className="repetend-image-container">
-            <img src="/repetends/repetend3.png" alt="Repetend 3: UN Goal 16 and firewalls" className="repetend-image" />
+            <img src="/repetends/repetend3.png" alt="Repetend 3: Protecting medical records" className="repetend-image" />
           </div>
         </div>
       </section>
@@ -189,13 +189,13 @@ function App() {
       <section className="section repetend-section">
         <div className="container">
           <div className="repetend-image-container">
-            <img src="/repetends/repetend4.png" alt="Repetend 4: Strong institutions and cybersecurity" className="repetend-image" />
+            <img src="/repetends/repetend4.png" alt="Repetend 4: UN Goal 16 and firewalls" className="repetend-image" />
           </div>
         </div>
       </section>
 
       {/* Dialogue */}
-      <section className="section section-alt">
+      <section className="section">
         <div className="container">
           <h2 className="section-title">Dialogue</h2>
           <div className="content-block dialogue-block">
@@ -248,10 +248,10 @@ function App() {
       </section>
 
       {/* Repetend 5 */}
-      <section className="section repetend-section">
+      <section className="section section-alt repetend-section">
         <div className="container">
           <div className="repetend-image-container">
-            <img src="/repetends/repetend5.png" alt="Repetend 5: CSA recruitment advertisement" className="repetend-image" />
+            <img src="/repetends/repetend5.png" alt="Repetend 5: Strong institutions and cybersecurity" className="repetend-image" />
           </div>
         </div>
       </section>
